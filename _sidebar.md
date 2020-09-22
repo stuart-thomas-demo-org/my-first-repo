@@ -1,0 +1,5 @@
+- [The Demo Service](/)
+  - [Architecture](/docs/architecture.md)
+- Info About Design and Stuff
+  - [A Service](/src/main/java/com/ahold/demo/service/demo-service-information.md)
+  - [A Service Helper](/src/main/java/com/ahold/demo/service/helper/demo-service-helper.md)
